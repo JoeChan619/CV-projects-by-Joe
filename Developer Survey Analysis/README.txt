@@ -1,7 +1,7 @@
 Developer Survey Analysis
 
 Tableau Story Link:
-https://public.tableau.com/views/Techstory/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/DeveloperSurvey2021/Main?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 There are two files from Stack Overflow:
 1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer

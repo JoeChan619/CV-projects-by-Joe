@@ -4,7 +4,7 @@ Superstore Discounted Sales Analysis:
 https://public.tableau.com/views/SuperstoreDiscountedSales2011-2014/Main?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Developers Survey Analysis:
-https://public.tableau.com/views/Techstory/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/DeveloperSurvey2021/Main?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Sydney Property Analysis:
 https://public.tableau.com/views/SydneyPropertySales2020-2021/Main?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
